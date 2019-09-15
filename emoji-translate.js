@@ -61,52 +61,43 @@ function findEmoji(word) {
     }
 }
 
-const text = `They say oh my god I see the way you shine
-Take your hand, my dear, and place them both in mine
-You know you stopped me dead when I was passing by
-And now I beg to see you dance just one more time
-Ooh I see you, see you, see you every time
-And oh my I, I like your style
-You, you make me, make me, make me wanna cry
-And now I beg to see you dance just one more time
-So I say
-Dance for me, dance for me, dance for me oh oh oh
-I've never seen anybody do the things you do before
-They say move for me, move for me, move for me ay ay ay
-And when you're done I'll make you do it all again
-I said oh my god I see you walking by
-Take my hands, my dear, and look me in my eyes
-Just like a monkey I've been dancing my whole life
-And you just beg to see me dance just one more time
-Ooh I see you, see you, see you every time
-And oh my I, I like your style
-You, you make me, make me, make me wanna cry
-And now I beg to see you dance just one more time
-So I say
-Dance for me, dance for me, dance for me oh oh oh
-I've never seen anybody do the things you do before
-They say move for me, move for me, move for me ay ay ay
-And when you're done I'll make you do it all again
-They say
-Dance for me, dance for me, dance for me oh oh oh, oh oh, oh oh
-I've never seen anybody do the things you do before
-They say move for me, move for me, move for me ay ay ay
-And when you're done I'll make you do it all again
-Ooh (all again, all again)
-Woah-oh, woah-oh, oh
-Ooh (all again, all again)
-Ah ah, ah ah, ay
-They say
-Dance for me, dance for me, dance for me oh oh oh
-I've never seen anybody do the things you do before
-They say move for me, move for me, move for me ay ay ay
-And when you're done I'll make you do it all again
-They say
-Dance for me, dance for me, dance for me oh oh oh, oh oh, oh oh
-I've never seen anybody do the things you do before
-They say move for me, move for me, move for me ay ay ay
-And when you're done I'll make you do it all again
-All again`;
+const text = `You would not believe your eyes
+If ten million fireflies
+Lit up the world as I fell asleep
+'Cause they fill the open air
+And leave teardrops everywhere
+You'd think me rude but I would just stand and stare
+I'd like to make myself believe that planet earth turns slowly
+It's hard to say that I'd rather stay awake when I'm asleep
+'Cause everything is never as it seems
+'Cause I'd get a thousand hugs
+From ten thousand lightning bugs
+As they tried to teach me how to dance
+A foxtrot above my head
+A sock hop beneath my bed
+A disco ball is just hanging by a thread (thread, thread)
+I'd like to make myself believe that planet earth turns slowly
+It's hard to say that I'd rather stay awake when I'm asleep
+'Cause everything is never as it seems (when I fall asleep)
+Leave my door open just a crack
+Please take me away from here
+'Cause I feel like such an insomniac
+Please take me away from here
+Why do I tire of counting sheep
+Please take me away from here
+When I'm far too tired to fall asleep
+To ten million fireflies
+I'm weird cause I hate goodbyes
+I got misty eyes as they said farewell (said farewell)
+But I'll know where several are
+If my dreams get real bizarre
+'Cause I saved a few and I keep them in a jar (jar, jar)
+I'd like to make myself believe that planet earth turns slowly
+It's hard to say that I'd rather stay awake when I'm asleep
+'Cause everything is never as it seems (when I fall asleep)
+I'd like to make myself believe that planet earth turns slowly
+It's hard to say that I'd rather stay awake when I'm asleep
+'Cause everything is never as it seems (when I fall asleep)`;
 
 
 console.log(emojifyText(text));
