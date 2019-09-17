@@ -61,43 +61,39 @@ function findEmoji(word) {
     }
 }
 
-const text = `You would not believe your eyes
-If ten million fireflies
-Lit up the world as I fell asleep
-'Cause they fill the open air
-And leave teardrops everywhere
-You'd think me rude but I would just stand and stare
-I'd like to make myself believe that planet earth turns slowly
-It's hard to say that I'd rather stay awake when I'm asleep
-'Cause everything is never as it seems
-'Cause I'd get a thousand hugs
-From ten thousand lightning bugs
-As they tried to teach me how to dance
-A foxtrot above my head
-A sock hop beneath my bed
-A disco ball is just hanging by a thread (thread, thread)
-I'd like to make myself believe that planet earth turns slowly
-It's hard to say that I'd rather stay awake when I'm asleep
-'Cause everything is never as it seems (when I fall asleep)
-Leave my door open just a crack
-Please take me away from here
-'Cause I feel like such an insomniac
-Please take me away from here
-Why do I tire of counting sheep
-Please take me away from here
-When I'm far too tired to fall asleep
-To ten million fireflies
-I'm weird cause I hate goodbyes
-I got misty eyes as they said farewell (said farewell)
-But I'll know where several are
-If my dreams get real bizarre
-'Cause I saved a few and I keep them in a jar (jar, jar)
-I'd like to make myself believe that planet earth turns slowly
-It's hard to say that I'd rather stay awake when I'm asleep
-'Cause everything is never as it seems (when I fall asleep)
-I'd like to make myself believe that planet earth turns slowly
-It's hard to say that I'd rather stay awake when I'm asleep
-'Cause everything is never as it seems (when I fall asleep)`;
+const text = `Yeah, I'm gonna take my horse to the old town road
+I'm gonna ride 'til I can't no more
+I'm gonna take my horse to the old town road
+I'm gonna ride 'til I can't no more (Kio, Kio)
+I got the horses in the back
+Horse tack is attached
+Hat is matte black
+Got the boots that's black to match
+Ridin' on a horse, ha
+You can whip your Porsche
+I been in the valley
+You ain't been up off that porch, now
+Can't nobody tell me nothin'
+You can't tell me nothin'
+Can't nobody tell me nothin'
+You can't tell me nothin'
+Ridin' on a tractor
+Lean all in my bladder
+Cheated on my baby
+You can go and ask her
+My life is a movie
+Bull ridin' and boobies
+Cowboy hat from Gucci
+Wrangler on my booty
+Can't nobody tell me nothin'
+You can't tell me nothin'
+Can't nobody tell me nothin'
+You can't tell me nothin'
+Yeah, I'm gonna take my horse to the old town road
+I'm gonna ride 'til I can't no more
+I'm gonna take my horse to the old town road
+I'm gonna ride 'til I can't no more
+I got the`;
 
 
 console.log(emojifyText(text));
